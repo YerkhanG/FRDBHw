@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "367246306629",
+    "firebase_url": "https://frdb-b9f7c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "frdb-b9f7c",
+    "storage_bucket": "frdb-b9f7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367246306629:android:6f93e39b6fd484ae87622c",
+        "android_client_info": {
+          "package_name": "com.example.frdb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8wnSl-8SzYo-0_Y79mjqIlEB9jBn4uIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
